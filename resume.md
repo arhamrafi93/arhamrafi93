@@ -1,7 +1,8 @@
-# Arham's Resume
+# Arham Rafi Resume
 
 ## Education
-- Khoury College
+- Khoury College - Cybersecurity and Busniess Administration
+- Expected graduation date : 2029
 
 ## Skills
 - Programming
